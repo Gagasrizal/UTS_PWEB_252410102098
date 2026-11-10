@@ -3,6 +3,7 @@
 ![image alt](https://github.com/Gagasrizal/UTS_PWEB_252410102098/blob/main/Screenshot%202026-11-10%20223443.png?raw=true)
 ![image alt](https://github.com/Gagasrizal/UTS_PWEB_252410102098/blob/main/Screenshot%202026-11-10%20215608.png?raw=true)
 ![image alt](https://github.com/Gagasrizal/UTS_PWEB_252410102098/blob/main/Screenshot%202026-11-10%20223246.png?raw=true)
+![image alt](https://github.com/Gagasrizal/UTS_PWEB_252410102098/blob/main/Screenshot%202026-11-10%20223940.png?raw=true)
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
